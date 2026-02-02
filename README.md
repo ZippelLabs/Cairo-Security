@@ -8,6 +8,7 @@ Check out our [**Cairo Security Learning Roadmap**](ROADMAP.md) for a structured
 - Documentation and Language Foundations
 - Security Courses and Common Vulnerabilities
 - Past Cairo Security Contests
+- Cairo Tools
 
 The roadmap provides curated resources to help you master Cairo security, from foundational concepts to advanced vulnerability analysis.
 
